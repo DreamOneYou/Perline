@@ -1,5 +1,5 @@
 
-## perline基本信息
+## perlin基本信息
 Perlin噪声（Perlin noise，又称为柏林噪声）指由Ken Perlin发明的**自然噪声生成算法**，具有在函数上的连续性，并可在多次调用时给出一致的数值。 在电子游戏领域中可以透过使用Perlin噪声生成具连续性的地形；或是在艺术领域中使用Perlin噪声生成图样。
 
 由于一些历史原因，Simplex噪声和分形噪声（texture synthesis）都曾在学术论文中被单独称作Perlin噪声。
